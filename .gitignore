@@ -4,3 +4,9 @@
 
 /src/MVCClient/bin/Debug/net9.0
 /src/MVCClient/MVCClient.csproj.user
+/src/MVCClient/obj/Debug/net9.0
+/src/WebAPI1/bin/Debug/net9.0
+/src/WebAPI2/obj/Debug/net9.0
+/src/WebAPI3/obj/Debug/net9.0
+/src/WebAPI3/WebAPI3.csproj.user
+/src/WebAPI1/WebAPI1.csproj.user
